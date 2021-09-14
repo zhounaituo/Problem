@@ -1,6 +1,6 @@
 # Problem
 
-> *我只知道一件事，那就是我一无所知。————苏格拉底（I know nothing except the fact of my ignorance.--Socrates）*
+> *我只知道一件事，那就是我一无所知。(I know nothing except the fact of my ignorance.)*
 
 # 问题
 
